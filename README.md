@@ -1,6 +1,6 @@
 ![TitleScreen](https://i.imgur.com/QygKClV.png)
 
-# AliensTookMyFriend
+# Aliens Took My Friend
 Space Themed Game Submitted to Knight Hacks 2021 USSF Challenge
 
 # Team Members
